@@ -16,7 +16,5 @@
     "url": "https://github.com/rhintze/test/issues"
   },
   "homepage": "https://github.com/rhintze/test#readme",
-  "dependencies": {
-    "lodash": "^4.17.11"
-  }
+  "dependencies": {}
 }
